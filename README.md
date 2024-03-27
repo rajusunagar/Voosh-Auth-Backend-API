@@ -6,8 +6,6 @@ Use <a href="https://www.getpostman.com" target="_blank">Postman</a> to test.<br
 
 **Try accessing the user index route without token [GET]**<br/>
 
-https://mesannodejsapiwithverification.herokuapp.com/api/user<br/>
-
 ![User Index](https://github.com/rajusunagar/Voosh-Auth-Backend-API/blob/main/demo/UserIndex.gif "User Index")
 
 **Register and Login** <br/>
